@@ -1,5 +1,5 @@
 _repo: Nuori-Venaja_56754
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kianto, Ilmari
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '44960'
     url: http://www.gutenberg.org/2009/agents/44960
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gusjev-Orenburgski, D.
     gutenberg_agent_id: '49021'
     url: http://www.gutenberg.org/2009/agents/49021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56754#Nuori-Venaja
 gutenberg_issued: '2018-03-16'
 gutenberg_type: Text
 identifiers:
