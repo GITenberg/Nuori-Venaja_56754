@@ -1,0 +1,30 @@
+_repo: Nuori-Venaja_56754
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kianto, Ilmari
+    alias: Calamnius, Ilmari
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '44960'
+    url: http://www.gutenberg.org/2009/agents/44960
+creator:
+  author:
+    agent_name: Gusjev-Orenburgski, D.
+    gutenberg_agent_id: '49021'
+    url: http://www.gutenberg.org/2009/agents/49021
+description: ''
+gutenberg_issued: '2018-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56754'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+title: Nuori Venäjä
+url: http://www.gutenberg.org/ebooks/56754
